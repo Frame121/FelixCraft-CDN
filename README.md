@@ -50,8 +50,8 @@ A beautiful, minimal, and user-friendly Content Delivery Network (CDN) built wit
 
 1. **Clone the repository**
 ```bash
-https://github.com/Frame121/FelixCraft-CDN.git
-cd FelixCraft-CDN
+https://github.com/Frame121/FelixCraft-CDN-Node.js.git
+cd FelixCraft-CDN-Node.js
 ```
 
 2. **Install dependencies**
