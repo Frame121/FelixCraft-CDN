@@ -232,7 +232,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **FelixCraft Official**
 - GitHub: [@Frame121](https://github.com/Frame121)
-- Website: [felixcraft.com](https://felixcraft.xyz)
+- Website: [felixcraft.xyz](https://felixcraft.xyz)
 
 ## 🙏 Acknowledgments
 
