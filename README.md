@@ -48,8 +48,8 @@ A beautiful, minimal, and user-friendly Content Delivery Network (CDN) built wit
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/felixcraft-cdn.git
-cd felixcraft-cdn
+https://github.com/Frame121/FelixCraft-CDN.git
+cd FelixCraft-CDN
 ```
 
 2. **Install dependencies**
