@@ -244,10 +244,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📊 Stats
 
-![GitHub stars](https://img.shields.io/github/stars/your-username/felixcraft-cdn?style=social)
-![GitHub forks](https://img.shields.io/github/forks/your-username/felixcraft-cdn?style=social)
-![GitHub issues](https://img.shields.io/github/issues/your-username/felixcraft-cdn)
-![GitHub license](https://img.shields.io/github/license/your-username/felixcraft-cdn)
+![GitHub stars](https://img.shields.io/github/stars/Frame121/FelixCraft-CDN-Node.js?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Frame121/FelixCraft-CDN-Node.js?style=social)
+![GitHub issues](https://img.shields.io/github/issues/Frame121/FelixCraft-CDN-Node.js)
+![GitHub license](https://img.shields.io/github/license/Frame121/FelixCraft-CDN-Node.js)
 
 ---
 
