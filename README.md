@@ -2,12 +2,13 @@
 
 A beautiful, minimal, and user-friendly Content Delivery Network (CDN) built with Node.js and Express. Upload, manage, and share your files with ease!
 
-![FelixCraft CDN](https://img.shields.io/badge/FelixCraft-CDN-blue?style=for-the-badge)
+![FelixCraft CDN](https://cdn.discordapp.com/attachments/1294284728157081685/1425006186884894740/Screenshot_167.png?ex=68e603ee&is=68e4b26e&hm=ae7432a1417189736ba5a171ee625f296497905c3417e2d4e2bae168c200ca96&)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 ## ✨ Features
 
